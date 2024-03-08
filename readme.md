@@ -10,7 +10,10 @@ Console application where you can add tasks to a to do list, mark them as comple
 
 ### Screenshots
 
-![](https://pandao.github.io/editor.md/examples/images/4.jpg)
+![](https://dessinstudio.com/portfolio-imgs/01_01.png)
+![](https://dessinstudio.com/portfolio-imgs/01_02.png)
+![](https://dessinstudio.com/portfolio-imgs/01_03.png)
+![](https://dessinstudio.com/portfolio-imgs/01_04.png)
 
 ### How to install and run the app
 
