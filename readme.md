@@ -11,3 +11,8 @@ Console application where you can add tasks to a to do list, mark them as comple
 ### Screenshots
 
 ![](https://pandao.github.io/editor.md/examples/images/4.jpg)
+
+### How to install and run the app
+
+Download the code, and run `npm install`
+to launch it run `npm run start`
